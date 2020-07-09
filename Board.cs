@@ -20,7 +20,7 @@ namespace KnightsTour
             {
                 for (int c = 0; c < Col; c++)
                 {
-                    output += String.Format("0\t", moves[r, c]);
+                    output += String.Format("{0}\t", moves[r, c]);
                 }
                 output += "\n";
             }

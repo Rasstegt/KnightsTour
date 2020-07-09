@@ -1,5 +1,7 @@
-Tour 1: Knight was able to do 44 steps.
+Tour 1: Knight was able to do 55 steps.
+Tour 2: Knight was able to do 56 steps.
+Tour 3: Knight was able to do 56 steps.
 
-Average of steps: 44
+Average of steps: 55
 
-Standard deviation: 0.00
+Standard deviation: 1.15
