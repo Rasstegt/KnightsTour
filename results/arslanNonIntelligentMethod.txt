@@ -1,0 +1,5 @@
+Tour 1: Knight was able to do 15 steps.
+
+Average of steps: 15
+
+Standard deviation: 0.00
